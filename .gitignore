@@ -1,0 +1,5 @@
+config.py
+proxy1.py
+spam.log
+__pycache__/
+*.py[cod]
